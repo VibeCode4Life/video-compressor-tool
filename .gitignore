@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Logs and Databases
+*.log
+*.sqlite
+*.db
+
+# Media Files (Optional - to prevent committing large test files)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# PyInstaller
+*.spec

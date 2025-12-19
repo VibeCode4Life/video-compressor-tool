@@ -1,0 +1,6 @@
+customtkinter
+ffmpeg-python
+opencv-python
+pillow
+imageio-ffmpeg
+pyinstaller
