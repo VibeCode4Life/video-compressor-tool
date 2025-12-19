@@ -4,9 +4,9 @@ import threading
 import os
 import shutil
 import tempfile
-import cv2 
+ 
 from PIL import Image, ImageDraw
-import time
+
 import sys
 import traceback
 from compressor import compress_video, get_video_info, get_thumbnail

@@ -12,5 +12,5 @@ echo.
 echo Environment setup complete!
 echo To run the app, type:
 echo venv\Scripts\activate
-echo streamlit run app.py
+echo python app.py
 pause

@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch, MagicMock
 import os
-import sys
+
 # Ensure PIL is patched if needed, but since we moved import, we can patch global PIL.Image or compressor.Image
 from compressor import get_ffmpeg_path, get_video_info, get_thumbnail, parse_time_str, compress_video
 
