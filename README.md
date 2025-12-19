@@ -1,6 +1,9 @@
 # Video Compressor Pro 🎬
 
+
 A beautiful, **Offline** Desktop application to compress videos to various resolutions (144p to 1440p) with live preview.
+
+![Video Compressor UI](UI.png)
 
 ## Features
 - **100% Offline**: No internet required. Runs locally on your machine.
